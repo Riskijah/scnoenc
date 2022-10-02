@@ -37,19 +37,19 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/c/DenaraBot' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '085727492435' //dana
-global.povo = '085727492435' //ovo
-global.pgopay = 'minta ke owner' //gopay
-global.plinkaja = '085727492435' //link aja
-global.ppulsa = '081215626270' //telkomsel
-global.ppulsa2 = '085727492435' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/denarabot26'
+global.pdana = '083873407979' //dana
+global.povo = '083873407979' //ovo
+global.pgopay = '083873407979' //gopay
+global.plinkaja = '083873407979' //link aja
+global.ppulsa = '089603421925' //telkomsel
+global.ppulsa2 = '083873407979' // kalau ada kartu lain isi aja
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285727492435'
-global.nomorown = '6281215626270'
-global.namebot = 'DENARA-BOT-V1'
-global.nameown = 'DENARA BOT'
+global.nomorbot = '6289603421925'
+global.nomorown = '6283873407979'
+global.namebot = 'CimoyBOT-V1'
+global.nameown = 'RizGanz'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,10 +58,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281215626270', 'DENARA', true],
+  ['6283873407979', 'RizGanz', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
+  ['6283873407979', 'RizGanz', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 DENARA-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘DENARA-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ DENARA-BOT-V1 '
+global.wm = '                「 CimoyBOT-V1 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘CimoyBOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ CimoyBOT-V1 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By DENARA-BOT`
-global.author = '                「 DENARA-BOT-V1  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By RizGanz`
+global.author = '                「 CimoyBOT-V1  あ」'
 
 
 /*============== LOGO ==============*/
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'DENARA-BOT-V1'
-global.stickauth = `By ©DENARA BOT`
+global.stickpack = 'CimohBOT-V1'
+global.stickauth = `By ©RizGanz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
