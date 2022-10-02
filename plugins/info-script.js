@@ -6,15 +6,14 @@ let str = `*https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow*
 
 Pengen mentahan nya ?
 Nih ada santai bro....
-https://github.com/ImYanXiao/Elaina-MultiDevice
+https://github.com/Riskijah/scnoenc
 
-Mau Yang No Error Script Bot nya, Gas Cek Video YT :
-https://youtu.be/Pgv_GuQTPyo
+Mau Yang No Error Script Bot nya? Gas Beli
 
 Pengen yang udah di recode oleh owner?
 Script bot ini dijual bila kalian mau bisa chat owner
 
-wa.me/6282127487538`
+wa.me/6283873407979`
 let wibu = `https://api-reysekha.herokuapp.com/api/random/cosplay?apikey=apirey` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'Thankyou','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
