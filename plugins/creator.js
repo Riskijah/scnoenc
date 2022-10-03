@@ -11,10 +11,9 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
+• Owner menerima save contact
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
 • No Telp`
 
 //------------ BIO
@@ -32,7 +31,6 @@ ${htjava} *💬 Sifat* : Kadang Baik Kadang Tolol
 ${htjava} *🗺️ Tinggal* : Taktakan, Serang
 ${htjava} *❤️ Waifu* : -
 
-${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 •·––––––––––––––––––––––––––·•
 `
